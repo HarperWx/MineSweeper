@@ -1,0 +1,9 @@
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\bin\Debug\MineSweeper1.exe.config
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\bin\Debug\MineSweeper1.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\bin\Debug\MineSweeper1.pdb
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper1.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper1.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper1.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper1.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper1.pdb
