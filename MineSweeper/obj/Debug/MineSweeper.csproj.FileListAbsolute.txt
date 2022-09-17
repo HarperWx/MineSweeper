@@ -1,0 +1,37 @@
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper.Display.resources
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\bin\Debug\MineSweeper.exe.config
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\bin\Debug\MineSweeper.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\bin\Debug\MineSweeper.pdb
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper1\MineSweeper1\obj\Debug\MineSweeper.pdb
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Display.resources
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\obj\Debug\MineSweeper.Display.resources
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\ASUS\OneDrive\文件\Visual Studio 2019\MineSweeper - 複製\MineSweeper\obj\Debug\MineSweeper.pdb
+D:\Visual Studio\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+D:\Visual Studio\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Display.resources
+D:\Visual Studio\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+D:\Visual Studio\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+D:\Visual Studio\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+D:\Visual Studio\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+D:\Visual Studio\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
